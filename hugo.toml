@@ -1,4 +1,4 @@
-baseURL = 'https://TechnicalSite.github.io/'
+baseURL = https://suchismita-deb.github.io/TechnicalSite/'
 languageCode = 'en-us'
 title = 'Technical Blog'
 theme = 'paper'
